@@ -28,5 +28,5 @@ jobs:
         with:
           source_repo: "https://github.com/ElsaKing/DogDog.git"
           source_branch: "main"
-          destination_branch: "main"
+          destination_branch: "YD"
           github_token: ${{ secrets.PAT }}
